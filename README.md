@@ -1,2 +1,2 @@
 # cukorgyar
-xd
+A projektünk egy cukorgyártó üzemről fog szólni
