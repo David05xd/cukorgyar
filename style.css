@@ -1,0 +1,29 @@
+body{
+    background-image: url(728334.jpg);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+#hatter{
+    background-color: lightpink;
+    border-radius: 20px;
+    border: blueviolet dashed 2px;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+    margin: 10px 20% 10px 20%;
+}
+img{
+    border-radius: 20px;
+    border: red dashed 5px;
+    height: 50%;
+    width: 50%;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: green;
+    
+    
+}
