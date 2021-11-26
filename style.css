@@ -27,3 +27,18 @@ a{
     
     
 }
+.fejlec{
+    position: fixed; 
+    background-color: lightpink;
+    border-radius: 20px;
+    border: blueviolet dashed 2px;
+    text-align: right;
+    padding-left: 50%;
+    padding-right: 45%;
+    margin-top: 20px;
+    
+    
+}
+#hely{
+    padding: 55px 55px 55px 55px;
+}
