@@ -13,6 +13,7 @@ h1{
     padding-right: 2%;
     text-align: center;
     margin: 10px 20% 10px 20%;
+    font-size: 30px;
 }
 img{
     border-radius: 20px;
@@ -26,4 +27,14 @@ a{
     color: green;
     
     
+}
+th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+  }
+table{
+    width:500px;
 }
