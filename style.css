@@ -51,12 +51,13 @@ h1{
     margin: 10px 20% 10px 20%;
     font-size: 30px;
 }
-img{
+.aru{
     border-radius: 20px;
     border: red dashed 5px;
     height: 50%;
     width: 50%;
     background-color: white;
+    float: none;
 }
 a{
     text-decoration: none;
