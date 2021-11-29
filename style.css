@@ -1,6 +1,8 @@
 body{
     background-image: url(images/Háttér1.jpg);
     font-family: 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 h1{
     text-align: center;
@@ -37,4 +39,11 @@ th, td {
   }
 table{
     width:500px;
+}
+a img{
+    height: 50px;
+    width: 50px;
+    border: green solid 1px;
+    border-radius: 5px;
+    float: left;
 }
