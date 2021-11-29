@@ -1,6 +1,8 @@
 body{
     background-image: url(images/Háttér1.jpg);
     font-family: 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 h1{
     text-align: center;
