@@ -61,10 +61,11 @@ h1{
     
 }
 a{
-    text-decoration: none;
-    color: green;
-    
-    
+    text-decoration: none;   
+}
+.forma:hover{
+    font-size: 45px;
+    color:green;
 }
 th, td {
     border: 1px solid black;
