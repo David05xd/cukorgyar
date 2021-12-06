@@ -3,15 +3,23 @@ body{
     font-family: 'Times New Roman', Times, serif;
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
+    }   
     .navbar {
         overflow:hidden;
+<<<<<<< HEAD
         background-color:black;
+=======
+        background-color: rgba(0, 0, 0, 0.5);
+>>>>>>> a4cdd8dd391146c70434252d41d9ad75342f03b4
         position: fixed;
         top: 0;
         width: 100%;
         font-family: Arial, Helvetica, sans-serif;
         margin-left: -8px;
+<<<<<<< HEAD
+=======
+        
+>>>>>>> a4cdd8dd391146c70434252d41d9ad75342f03b4
       }
       
       .navbar a {
@@ -36,6 +44,10 @@ body{
         margin-top: 30px;
         height: 1500px; 
       }
+<<<<<<< HEAD
+=======
+
+>>>>>>> a4cdd8dd391146c70434252d41d9ad75342f03b4
 h1{
     text-align: center;
 }
@@ -56,12 +68,14 @@ h1{
     width: 50%;
     background-color: white;
     float: none;
+    
 }
 a{
-    text-decoration: none;
-    color: green;
-    
-    
+    text-decoration: none;   
+}
+.forma:hover{
+    font-size: 45px;
+    color:green;
 }
 th, td {
     border: 1px solid black;
